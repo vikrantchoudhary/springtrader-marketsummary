@@ -1,4 +1,4 @@
-# Springtrader-marketsummary
+# springtrader-marketsummary
 
 ## Overview
 
